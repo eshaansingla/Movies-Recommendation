@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 **Eshaan Singla**  
-📧 eshaansingla2807@email.com  
+📧 eshaansingla2807@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/eshaansingla/)  
 🔗 [GitHub](https://github.com/eshaansingla)
 
