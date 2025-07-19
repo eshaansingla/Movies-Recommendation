@@ -75,16 +75,6 @@ Visit `http://127.0.0.1:5000/` in your browser.
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](assets/screenshots/homepage.png)
-
-### Recommendations
-![Recommendations](assets/screenshots/recommendations.png)
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
